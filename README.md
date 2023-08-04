@@ -1,2 +1,2 @@
-# simple-react-form
-Created with CodeSandbox
+# Sign Up Form - TST Code Challenge
+
